@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 milan gamage
-new
 
-new milan gamage
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
